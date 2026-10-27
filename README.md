@@ -28,3 +28,12 @@ Collected NYC 311 and weather data via APIs, analyzed resolution times, and buil
 1. Install `requirements.txt`
 2. Run the collection script in `src/`
 3. Run the notebooks in order
+
+## Definition of Done
+- [ ] Rerunnable collection scripts for 311 and weather
+- [ ] Cleaning log with before/after row counts
+- [ ] EDA: resolution time by agency, borough, complaint type, weather
+- [ ] Written recommendations with estimated impact
+- [ ] Feature engineering and train/test split
+- [ ] 2+ models compared with cross-validation
+- [ ] Feature importance and limitations section
